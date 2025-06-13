@@ -13,13 +13,11 @@ I am currently pursuing a Master’s degree in **Cyber Science** at the College 
 
 ### 🎓 Education
 
-**Nankai University**, Tianjin, China
-*M.Sc. in Cyber Science* (2024 – Present)
+**Nankai University（南开大学）** *M.Sc. in Cyber Science* (2024 – Present)
 
 • GPA: 3.6 / 5.0
 
-**Shandong University**, Qingdao, China
-*B.Eng. in Information Security* (2020 – 2024)
+**Shandong University（山东大学）** *B.Eng. in Information Security* (2020 – 2024)
 
 • GPA: 3.8 / 5.0 (Top 15.7%)
 
