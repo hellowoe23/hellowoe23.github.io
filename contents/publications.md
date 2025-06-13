@@ -23,7 +23,7 @@
       <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/passllm-full.pdf" target="_blank" style="text-decoration: none; color: #0d6efd; margin-right: 20px;">
         📄 <code>Full Paper (PDF)</code>
       </a>
-      <a href="https://github.com/hellowoe23/PasswordLLM" target="_blank" style="text-decoration: none; color: #0d6efd;">
+      <a href="https://zenodo.org/records/15612295" target="_blank" style="text-decoration: none; color: #0d6efd;">
         💻 <code>Code Repository</code>
       </a>
     </p>
