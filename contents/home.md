@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/hellowoe23)
+[![hellowoe23](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/hellowoe23)
 
 I am currently pursuing a Master’s degree in Cyber Science at the College of Cryptography and Cyber Science, Nankai University, Tianjin, China.
 
