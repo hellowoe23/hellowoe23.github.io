@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
+- 全国大学生数学建模竞赛省级二等奖，2022
+- 山东大学优秀毕业生, 2024.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 

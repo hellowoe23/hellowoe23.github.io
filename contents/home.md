@@ -4,17 +4,14 @@ I am currently pursuing a Master’s degree in Cyber Science at the College of C
 
 #### Email  
 <code>anmaoxiang@mail.nankai.edu.cn</code>  
-<code>a15562043231@gail.com</code>
+<code>a15562043231@gmail.com</code>
 
 #### Education  
-**Nankai University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Nankai University**, Master of Cyber Science (2024 – Present)  
+• GPA: 3.6/5.0  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**Shandong University**, Bachelor of XX (XX – XX)  
-• GPA: 3.8/5.0 (top 18%)  
+**Shandong University**, Bachelor of Information Security (2020 – 2024)  
+• GPA: 3.8/5.0 (top 15.7%)  
 
 #### Research Interests  
 Password Security; LLM
